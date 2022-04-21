@@ -11,7 +11,7 @@ Plugin 'tpope/vim-fugitive'
 "filesystem
 Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
-Plugin 'kien/ctrlp.vim' 
+Plugin 'kien/ctrlp.vim'
 
 "html
 "  isnowfy only compatible with python not python3
@@ -119,7 +119,7 @@ set backspace=indent,eol,start
 "Folding based on indentation:
 autocmd FileType python set foldmethod=indent
 "use space to open folds
-nnoremap <space> za 
+nnoremap <space> za
 "----------Stop python PEP 8 stuff--------------
 
 "js stuff"
