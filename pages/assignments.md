@@ -1,6 +1,6 @@
 ---
 layout: page
-title: labs & assignments
+title: class & research projects
 description: Ben Harvey's assignments
 ---
 
@@ -19,22 +19,15 @@ description: Ben Harvey's assignments
 </div>
 
 
-### EMSE 6992 Assignments
-####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-{Add description of example an assignment here}
+* [Research project: Imitation of Success Leads to Cost of Living Mediated Fairness in the Ultimatum Game](https://github.com/yunongch/Ultimatum-game/blob/main/README.md)
+
+{Studied how fairness demand and willingness to share changes in different living costs[Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_game)}
 
 
-##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+* [Research project: Modeling Longitudinal Behavior Dynamics Among Extremist Users in Twitter Data](https://github.com/yunongch/twitter-study/blob/main/README.md)
 
-{Add description of example an assignment here}
 
-Results | Repository
----|---
-[assignment1 results]()| [assignment1 repositiory]()
 
 ---
 
