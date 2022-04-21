@@ -16,11 +16,19 @@ description: Ben Harvey's assignments
 
 [Research project: Modeling Longitudinal Behavior Dynamics Among Extremist Users in Twitter Data](https://github.com/yunongch/twitter-study/blob/main/README.md)
 
+* Ran data analysis on 2.4 million twitter users and designed an algorithm to detect bots among them
+
 
 
 [Research project: Simulation of Population Dynamic Model of Cancer Cells and White Blood Cells](https://github.com/yunongch/cancer-cell-population-dynamic#readme)
 
-[Class project: simulation-of-a-common-neuron](https://github.com/yunongch/simulation-of-a-common-neuron/new/main?readme=1)
+* Built differential equation models of cancer cell and white blood cell population dynamic in three stages of cell reproduction
+
+
+
+[Class project: simulation of a common-neuron](https://github.com/yunongch/simulation-of-a-common-neuron/new/main?readme=1)
+
+* Simulated the behavior of a common neuron, which has sodium and potassium channels using classical Hodgkin-Huxley model
 
 
 ---
