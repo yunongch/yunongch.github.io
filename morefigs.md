@@ -23,7 +23,7 @@ title: Karl Broman
   </td>
   <td class="right">
     <a href="pages/publpics/converge graph.html">
-        <img src="assets/publpics/converge.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+        <li><a href="https://github.com/yunongch/twitter-study"><img src="assets/publpics/converge graph.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
     </a>
   </td>
 </tr>
@@ -35,7 +35,7 @@ title: Karl Broman
   </td>
   <td class="right">
     <a href="pages/publpics/ffts.html">
-        <img src="assets/publpics/ffts.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
+        <li><a href="https://github.com/yunongch/twitter-study"><img src="assets/publpics/ffts.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
     </a>
   </td>
 </tr>
@@ -54,7 +54,7 @@ title: Karl Broman
 <tr>
   <td class="left">
     <a href="pages/publpics/mfdfa.html">
-        <img src="assets/publpics/mfdfa.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
+        <li><a href="https://github.com/yunongch/twitter-study"><img src="assets/publpics/mfdfa.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
     </a>
   </td>
   <td class="right">
