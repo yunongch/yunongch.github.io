@@ -14,7 +14,7 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-Hi, my name is Yunong Chen, a master student majored in applied math graduating December 2022. Welcome to my website. I am currently looking for full time positions starting January 2023.  
+Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating December 2022. I am currently looking for full time positions on quantitative finance or software engineering starting January 2023.  
 <table class="wide">
 <tr>
   <td class="left">
