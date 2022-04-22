@@ -19,7 +19,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-
+    <a href="pages/publpics/spike.html">
+        <img src="assets/publpics/spike.png" alt="https://robinhood.com/"/>
     </a>
   </td>
   <td class="right">
