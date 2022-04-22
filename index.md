@@ -22,7 +22,7 @@ keywords: statistics, data analytics
     <a href="pages/publpics/spike.html">
         <li><a href="https://github.com/yunongch/simulation-of-a-common-neuron/blob/main/Project.ipynb"><img src="assets/publpics/spike.png">
     </a>
-  
+
   <td class="right">
     <a href="pages/publpics/Figure_1.html">
         <li><a href="https://github.com/yunongch/Ultimatum-game"><img src="assets/publpics/Figure_1.png" alt="Tian et
@@ -41,8 +41,6 @@ keywords: statistics, data analytics
         <li><a href="https://github.com/yunongch/twitter-study"><img src="assets/publpics/ffts.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
 
-</tr>
-</table>
 
 <div class="navbar">
   <div class="navbar-inner">
