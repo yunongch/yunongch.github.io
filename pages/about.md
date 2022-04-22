@@ -9,7 +9,7 @@ Yunong Chen is currently an Applied Math master at Columbia University
 
 
 #### <a name="previousposition"></a>previous positions
-Yunong Chen got his bachelor degree in Math from Penn State University in 2021
+Yunong Chen received his bachelor degree in Math from Penn State University in 2021
 
 
 #### <a name="cvandresume"></a>cv and resume
