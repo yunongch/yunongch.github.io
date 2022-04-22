@@ -14,7 +14,7 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating December 2022. I am currently looking for full time positions on quantitative finance or software engineering starting January 2023. Below is an overview of some projects I have done.
+Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating December 2022. I am currently looking for full time positions on quantitative finance or software engineering starting January 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done.
 <table class="wide">
 <tr>
   <td class="left">
