@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: more figures
 ---
 
 <div class="navbar">
@@ -18,7 +18,7 @@ title: Karl Broman
 <tr>
   <td class="left">
     <a href="pages/publpics/bank equation.html">
-        <img src="assets/publpics/bank equation.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+        <li><a href="https://github.com/yunongch/Ultimatum-game"><img src="assets/publpics/bank equation.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
     </a>
   </td>
   <td class="right">
@@ -30,7 +30,7 @@ title: Karl Broman
 <tr>
   <td class="left">
     <a href="pages/publpics/de.html">
-        <img src="assets/publpics/de.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
+        <li><a href="https://github.com/yunongch/cancer-cell-population-dynamic"><img src="assets/publpics/de.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
     </a>
   </td>
   <td class="right">
@@ -42,12 +42,12 @@ title: Karl Broman
 <tr>
   <td class="left">
     <a href="pages/publpics/Figure_1.html">
-        <img src="assets/publpics/Figure_1.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
+        <li><a href="https://github.com/yunongch/Ultimatum-game"><img src="assets/publpics/Figure_1.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/Figure_2.html">
-        <img src="assets/publpics/Figure_2.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
+        <li><a href="https://github.com/yunongch/cancer-cell-population-dynamic"><img src="assets/publpics/Figure_2.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
     </a>
   </td>
 </tr>
@@ -59,7 +59,7 @@ title: Karl Broman
   </td>
   <td class="right">
     <a href="pages/publpics/spike.html">
-        <img src="assets/publpics/spike.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
+        <li><a href="https://github.com/yunongch/simulation-of-a-common-neuron/blob/main/Project.ipynb"><img src="assets/publpics/spike.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
     </a>
   </td>
 </tr>
