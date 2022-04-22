@@ -12,5 +12,5 @@ description: Student's Courses
 
 ### [Introduction to Topology](http://php.scripts.psu.edu/users/v/x/vxs137/Teach_old/429_S21/429.html) (MATH 429; Spring, 2020)
 
-###Other courses I have taken don't have websites but you can find information about them <a href="{{ BASE_PATH }}/assets/courses.docx">here</a>
+Other courses I have taken don't have websites but you can find information about them <a href="{{ BASE_PATH }}/assets/courses.docx">here</a>
 ---
