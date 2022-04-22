@@ -8,7 +8,6 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Yunong Chen_Applied Math_Master.pdf">cv</a></li>
           <li><a href="https://github.com/yunongch">github</a></li>
       </ul>
   </div>
