@@ -4,37 +4,14 @@ title: courses
 description: Student's Courses
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
-            <li><a href="#old">former courses</a></li>
-        </ul>
-    </div>
-</div>
 
+### <a name="current"></a>Some courses I have taken
 
-### <a name="current"></a>Current courses
+#### [Analysis of Algorithms I](http://www.cs.columbia.edu/~xichen/algorithm/) (CSOR 4231; Spring, 2022)
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### [FOUNDATIONS OF GEOMETRY](https://anton-petrunin.github.io/427/) (MATH 427; Fall, 2019)
 
-- [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
+#### [Introduction to Topology](http://php.scripts.psu.edu/users/v/x/vxs137/Teach_old/429_S21/429.html) (MATH 429; Spring, 2020)
 
+Other courses I have taken doesn't haev a website but you can find information about them <li><a href="{{ BASE_PATH }}/assets/courses.docx">here</a></li>
 ---
-
-### <a name="shortcourses"></a>Short courses
-
----
-
-### <a name="misc"></a>Miscellaneous lectures
-
-
----
-
-### <a name="old"></a>Former courses
-
