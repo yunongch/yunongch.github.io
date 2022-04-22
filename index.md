@@ -5,13 +5,6 @@ description: Benjamin Harvey is an Adjunct Professor at The George Washington Un
 keywords: statistics, data analytics
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/yunongch">github</a></li>
-      </ul>
-  </div>
-</div>
 
 Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating December 2022. I am currently looking for full time positions on quantitative finance or software engineering starting January 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done.
 <table class="wide">
