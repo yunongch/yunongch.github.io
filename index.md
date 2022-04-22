@@ -19,8 +19,7 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/converge graph.html">
-        <img src="assets/publpics/converge graph.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+
     </a>
   </td>
   <td class="right">
