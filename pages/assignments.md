@@ -10,7 +10,7 @@ description: Ben Harvey's assignments
 
 [Research project: Imitation of Success Leads to Cost of Living Mediated Fairness in the Ultimatum Game](https://github.com/yunongch/Ultimatum-game/blob/main/README.md)
 
-* Studied how fairness demand and willingness to share changes in different living costs [Ultimatum Game](https://en.wikipedia.org/wiki/Ultimatum_game)
+* Studied how fairness demand and willingness to share changes of [Ultimatum Games](https://en.wikipedia.org/wiki/Ultimatum_game) in different living costs 
 
 
 
