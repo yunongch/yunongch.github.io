@@ -26,7 +26,7 @@ description: Yunong Chen's projects
 
 
 
-[Class project: simulation of a common-neuron](https://github.com/yunongch/simulation-of-a-common-neuron/new/main?readme=1)
+[Class project: Simulation of Common Neuron](https://github.com/yunongch/simulation-of-a-common-neuron/new/main?readme=1)
 
 * Simulated the behavior of a common neuron, which has sodium and potassium channels using classical Hodgkin-Huxley model
 
