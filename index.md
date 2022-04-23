@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Yunong Chen
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Yunong Chen is a master student majored in applied math at Columbia University.
 keywords: statistics, data analytics
 ---
 
