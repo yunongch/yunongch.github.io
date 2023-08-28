@@ -5,7 +5,7 @@ description: Yunong Chen is a master student majored in applied math at Columbia
 keywords: statistics, data analytics
 ---
 
-Welcome to my website. My name is Yunong Chen, a person with great honor to win two Splendor games consecutively on July 3rd 2023. Such accomplishment illuminates my 24 years of dim life, and will continue to shine throughout the rest of my life. Besides that, I have a few negaligible math research experience and a simple paper published on journal 'Physica A', of course, none of these is comparable to my splendid victories on July 3rd 2023.
+Welcome to my website. My name is Yunong Chen, a person with great honor to win two Splendor games consecutively on July 3rd 2023 against miss Xu. Such accomplishment illuminates my 24 years of dim life, and will continue to shine throughout the rest of my life. Besides that, I have a few negaligible math research experience and a simple paper published on journal 'Physica A', of course, none of these is comparable to my splendid victories on July 3rd 2023.
 
 
 >>>>>>>
