@@ -5,11 +5,9 @@ description: Yunong Chen is a master student majored in applied math at Columbia
 keywords: statistics, data analytics
 ---
 
+Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating May 2023. I am currently looking for full time positions on quantitative finance or software engineering starting May 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done
 
-<<<<<<< HEAD
-Welcome to my website. My name is Yunong Chen, a master student who majored in applied math graduating May 2023. I am currently looking for full time positions on quantitative finance or software engineering starting May 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done.
-=======
-Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating December 2022. I am currently looking for full time positions on quantitative finance or software engineering starting January 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done.
+
 >>>>>>> parent of 399ded6 (Update index.md)
 <table class="wide">
 <tr>
