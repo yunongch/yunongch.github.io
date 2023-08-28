@@ -5,10 +5,10 @@ description: Yunong Chen is a master student majored in applied math at Columbia
 keywords: statistics, data analytics
 ---
 
-Welcome to my website. My name is Yunong Chen, a master student majored in applied math graduating May 2023. I am currently looking for full time positions on quantitative finance or software engineering starting May 2023. If you are hiring or found a typo, please feel free to email me at yc4011@columbia.edu. Below is an overview of some projects I have done
+Welcome to my website. My name is Yunong Chen, a person with great honor to win two Splendor games consecutively on July 3rd 2023. Such accomplishment illuminates my 24 years of dim life, and will continue to shine throughout the rest of my life. Besides that, I have a few negaligible math research experience and a simple paper published on journal 'Physica A', of course, none of these is comparable to my splendid victories on July 3rd 2023.
 
 
->>>>>>> 
+>>>>>>>
 <table class="wide">
 <tr>
   <td class="left">
